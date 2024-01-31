@@ -1,0 +1,43 @@
+repo_name: ravichanga101/rest_api_demo
+report_id: d3fc8c46705dc4c9b0f41cfa86bb1118
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:26:38+00:00'
+requested_by: ravichanga101
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ravichanga101/rest_api_demo
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ravichanga101/rest_api_demo/blob/main/API_Server/demo/php_rest_api_db.sql
+  detection_source: API_Server/demo/php_rest_api_db.sql
+  last_updated_by: Administrator
+  last_updated_on: 2021-10-28 04:19:16.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ravichanga101/rest_api_demo
+  detection_source: Repo Metadata
